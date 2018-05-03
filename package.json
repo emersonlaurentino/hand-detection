@@ -1,0 +1,10 @@
+{
+  "name": "hand-detection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emerson Laurentino <emersonlaurentino@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "opencv4nodejs": "^4.4.0"
+  }
+}
